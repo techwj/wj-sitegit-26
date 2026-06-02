@@ -1,0 +1,88 @@
+# Validation Report - buffet-value-maximizing-guide
+
+Generated: 2026-06-02T15:38:13.606142
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Buffet Value Maximizing Guide
+- ✓ Article word count OK: Beginner Buffet Value Maximizing Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Buffet Value Maximizing Guide
+- ✓ Article word count OK: Beginner Buffet Value Maximizing Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Buffet Value Maximizing Guide
+- ✓ Article word count OK: Beginner Buffet Value Maximizing Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Buffet Value Maximizing Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Buffet Value Maximizing Guide
+- ✓ Article word count OK: Beginner Buffet Value Maximizing Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Buffet Value Maximizing Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Buffet Value Maximizing Guide
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Buffet Value Maximizing Guide
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Buffet Value Maximizing Guide
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Buffet Value Maximizing Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Buffet Value Maximizing Guide
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Buffet Value Maximizing Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Buffet Value Maximizing Guide Tips
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Buffet Value Maximizing Guide Tips
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Buffet Value Maximizing Guide Tips
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Buffet Value Maximizing Guide Tips
+- ✓ Article word count OK: Common Mistakes in Buffet Value Maximizing Guide Tips
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Buffet Value Maximizing Guide History
+- ✓ Article word count OK: Buffet Value Maximizing Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Buffet Value Maximizing Guide History
+- ✓ Article word count OK: Buffet Value Maximizing Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Buffet Value Maximizing Guide History
+- ✓ Article word count OK: Buffet Value Maximizing Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Buffet Value Maximizing Guide History
+- ✓ Article word count OK: Common Mistakes in Buffet Value Maximizing Guide History
+- ✓ Article word count OK: Buffet Value Maximizing Guide History for Beginners
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Buffet Value Maximizing Guide
+- ✓ Article word count OK: Trending Buffet Value Maximizing Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Buffet Value Maximizing Guide
+- ✓ Article word count OK: Trending Buffet Value Maximizing Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Buffet Value Maximizing Guide
+- ✓ Article word count OK: Trending Buffet Value Maximizing Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Buffet Value Maximizing Guide
+- ✓ Article word count OK: Common Mistakes in Trending Buffet Value Maximizing Guide
+- ✓ Article word count OK: Trending Buffet Value Maximizing Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Buffet Value Maximizing Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Buffet Value Maximizing Guide Tutorials
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Buffet Value Maximizing Guide Tutorials
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Buffet Value Maximizing Guide Tutorials
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Buffet Value Maximizing Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Buffet Value Maximizing Guide Tutorials
+- ✓ Article word count OK: Buffet Value Maximizing Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Buffet Value Maximizing Guide Tutorials Techniques
+- ✓ Ad configuration validated

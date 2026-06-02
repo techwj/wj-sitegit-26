@@ -1,0 +1,59 @@
+{
+  "siteId": "buffet-value-maximizing-guide",
+  "generatedAt": "2026-06-02T15:38:13.606655",
+  "categories": [
+    "beginner-buffet-value-maximizing-guide",
+    "advanced-buffet-value-maximizing-guide",
+    "tips-buffet-value-maximizing-guide",
+    "history-buffet-value-maximizing-guide",
+    "trending-buffet-value-maximizing-guide",
+    "tutorials-buffet-value-maximizing-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-buffet-value-maximizing-guide",
+      "category_name": "Beginner Buffet Value Maximizing Guide"
+    },
+    {
+      "category_slug": "advanced-buffet-value-maximizing-guide",
+      "category_name": "Advanced Buffet Value Maximizing Guide"
+    },
+    {
+      "category_slug": "tips-buffet-value-maximizing-guide",
+      "category_name": "Buffet Value Maximizing Guide Tips"
+    },
+    {
+      "category_slug": "history-buffet-value-maximizing-guide",
+      "category_name": "Buffet Value Maximizing Guide History"
+    },
+    {
+      "category_slug": "trending-buffet-value-maximizing-guide",
+      "category_name": "Trending Buffet Value Maximizing Guide"
+    },
+    {
+      "category_slug": "tutorials-buffet-value-maximizing-guide",
+      "category_name": "Buffet Value Maximizing Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "buffet-value-maximizing-guide",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Buffet Value Maximizing Guide Central",
+    "articles_per_row": 1
+  }
+}
